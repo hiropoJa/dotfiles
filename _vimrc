@@ -233,5 +233,5 @@ imap [ []<LEFT>
 imap ( ()<LEFT>
 """"""""""""""""""""""""""""""
 
-" filetypeの自動検出
+" filetypeの自動検出(最後に挿入)
 filetype on
