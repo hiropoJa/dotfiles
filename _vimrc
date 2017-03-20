@@ -117,7 +117,7 @@ set smartindent
 " タブ文字の表示幅
 set tabstop=2
 " Vimが挿入するインデントの幅
-set shiftwidth=2
+set shiftwidth=4
 " 行頭の余白内で Tab を打ち込むと、'shiftwidth' の数だけインデントする
 set smarttab
 " カーソルを行頭、行末で止まらないようにする
