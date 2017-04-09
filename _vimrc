@@ -36,6 +36,9 @@ NeoBundle 'tpope/vim-fugitive'
 NeoBundle 'Shougo/vimshell.vim'
 NeoBundle 'Shougo/vimproc'
 
+" winresizerを導入
+NeoBundle 'simeji/winresizer'
+
 " Rails向けのコマンドを提供する
 NeoBundle 'tpope/vim-rails'
 " Ruby向けにendを自動挿入してくれる
