@@ -32,6 +32,10 @@ NeoBundle 'scrooloose/nerdtree'
 " Gitを便利に使う
 NeoBundle 'tpope/vim-fugitive'
 
+" vimshell導入
+NeoBundle 'Shougo/vimshell.vim'
+NeoBundle 'Shougo/vimproc'
+
 " Rails向けのコマンドを提供する
 NeoBundle 'tpope/vim-rails'
 " Ruby向けにendを自動挿入してくれる
